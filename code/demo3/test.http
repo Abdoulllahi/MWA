@@ -1,0 +1,7 @@
+POST http://127.0.0.1:3000/
+Authorization: abdallah
+Content-Type: application/json
+
+{
+    "pet": "Theo"
+}
